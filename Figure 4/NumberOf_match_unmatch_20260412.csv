@@ -1,0 +1,16 @@
+﻿Feature,DOIDCommonName,Presence,Absence,Total
+71700,Alzheimer's disease,18,60,78
+71700,healthy,7,167,174
+71700,unhealthy (nos),33,388,421
+33484,Alzheimer's disease,78,0,78
+33484,healthy,43,131,174
+33484,Kawasaki disease,12,96,108
+33484,osteoarthritis,41,1,42
+33484,rheumatoid arthitis,21,39,60
+33484,unhealthy (nos),327,94,421
+14167,Alzheimer's disease,21,57,78
+14167,healthy,19,155,174
+14167,Kawasaki disease,10,98,108
+14167,osteoarthritis,1,41,42
+14167,rheumatoid arthitis,9,51,60
+14167,unhealthy (nos),118,303,421
